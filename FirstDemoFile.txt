@@ -1,0 +1,4 @@
+Hi am learning playwright automation
+
+ git config --global user.email "sudheer42u@gmail.com"
+  git config --global user.name "Sudheerreddy7799"
